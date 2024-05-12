@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayesh-code&label=Profile%20views&color=0e75b6&style=flat" alt="jayesh-code" /> </p>
 
-- 🌱 I’m currently learning **Backend in web development**
+- 🌱 I’m currently learning **Everything...**
 
 - 📫 How to reach me **jayeshjain0975@gmail.com**
 
