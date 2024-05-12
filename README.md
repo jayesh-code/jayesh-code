@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm JAYESH JAIN</h1>
-<h3 align="center">Hello, I'm Jayesh Jain, a Computer Science student with a passion for innovative solutions. Currently pursuing my studies. Eager to apply my knowledge through hands-on projects, I thrive in collaborative environments. Actively seeking opportunities to connect with professionals, learn, and contribute to the ever-evolving world of technology. Let's connect and explore the possibilities together!"</h3>
+<h1 align="center">Hello 👋</h1>
+<h3 align="center">Hello, I'm Jayesh Jain , a Computer Science student with a passion for innovative solutions. Currently pursuing my studies. Eager to apply my knowledge through hands-on projects, I thrive in collaborative environments. Actively seeking opportunities to connect with professionals, learn, and contribute to the ever-evolving world of technology. Let's connect and explore the possibilities together!"</h3>
 <img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayesh-code&label=Profile%20views&color=0e75b6&style=flat" alt="jayesh-code" /> </p>
